@@ -31,4 +31,8 @@
         <None Include="..\..\.editorconfig" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Shops\Shops.csproj" />
+    </ItemGroup>
+
 </Project>

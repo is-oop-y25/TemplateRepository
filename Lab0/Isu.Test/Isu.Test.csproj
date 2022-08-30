@@ -31,4 +31,8 @@
         <None Include="..\..\.editorconfig" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Isu\Isu.csproj" />
+    </ItemGroup>
+
 </Project>
